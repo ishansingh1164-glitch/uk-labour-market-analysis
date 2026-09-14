@@ -140,4 +140,4 @@ This dashboard can support:
 
 ## Author
 
-Srushtee Chitrio  
+Ishan Singh
